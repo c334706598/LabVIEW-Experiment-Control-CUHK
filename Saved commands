@@ -1,0 +1,8 @@
+Enable Module list 0 Module no.0 "111", CODE 01
+
+Enable MW sweep step no.0: End frequency = 0.000 MHz, Tau = 0.000,  Amplitude = 0.000, CODE 02
+
+Break, update, loop DAC manager, CODE 11
+
+Set DAC manager Channel 0, Step 0 with the following values: time: 10, voltage: 10, transition: step, tau: 10, CODE 12
+
