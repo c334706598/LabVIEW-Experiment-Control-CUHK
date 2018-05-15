@@ -1,0 +1,16 @@
+Enable MW sweep step no.1: End frequency = 6810.000 MHz, Tau = 7.000,  Amplitude = -10.000, CODE 02
+
+Run experiment for 1 cycles, CODE 05
+
+Enable MW sweep step no.2: End frequency = 6820.000 MHz, Tau = 9.000,  Amplitude = -9.000, CODE 02
+
+Run experiment for 1 cycles, CODE 05
+
+Enable MW sweep step no.3: End frequency = 6830.000 MHz, Tau = 7.000,  Amplitude = -8.000, CODE 02
+
+Run experiment for 1 cycles, CODE 05
+
+Enable MW sweep step no.4: End frequency = 6832.000 MHz, Tau = 4.000,  Amplitude = -5.000, CODE 02
+
+Run experiment for 0 cycles, CODE 05
+
